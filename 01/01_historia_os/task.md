@@ -12,3 +12,4 @@
 ## Pripravte si 1-2 vety o tom, ako vyzeral a čo ste na ňom robili
 
 * Pozeral som na ňom youtube a vyzeral ako ťažká tehla
+ 
