@@ -1,0 +1,1 @@
+Používateľ => Aplikácie => Jadro => Hardvér
