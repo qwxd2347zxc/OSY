@@ -13,3 +13,4 @@
 **Bonusová otázka:**
 Nájdite jeden embedded OS, ktorý používate doma.
 * Android TV
+ 
